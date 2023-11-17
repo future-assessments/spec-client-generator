@@ -1,0 +1,1 @@
+# spec-client-generator
